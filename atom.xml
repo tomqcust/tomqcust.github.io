@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Tomqcust</title>
+  <title>流年逝水</title>
   
-  <subtitle>to be continued...</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>大灰狼爱小宝宝123</name>
+    <name>大灰狼爱小宝宝</name>
     
   </author>
   
